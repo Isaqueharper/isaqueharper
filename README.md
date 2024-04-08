@@ -8,7 +8,11 @@
  <br> <br>
 <img align="right" alt="Coding" width="400" src="https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif">
  <br> <br>
-Olá, eu sou Isaque, e este é o meu mundo de criatividade e tecnologia. Como estudante de Análise e Desenvolvimento de Sistemas, mergulho nas complexidades da tecnologia e da arte. Tenho uma paixão pelo design gráfico e pela web, e cada projeto é uma oportunidade de inovação. Este espaço é onde compartilho minha jornada. Explore meu trabalho e testemunhe a evolução constante. Da criação gráfica à programação, estou empenhado em elevar o nível. Vamos embarcar nesta jornada juntos. Conecte-se e inspire-se. Seja bem-vindo!
+Olá, eu sou Isaque . Como estudante de Análise e Desenvolvimento de Sistemas, 
+mergulho nas complexidades da tecnologia. Tenho uma paixão por desenvolvimento web e automação, e cada projeto é uma oportunidade de inovação. 
+Este espaço é onde compartilho minha jornada. Explore meu trabalho e testemunhe a evolução constante. Da criação à programação, estou empenhado em elevar o nível. 
+ Conecte-se e inspire-se. Seja bem-vindo!
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
