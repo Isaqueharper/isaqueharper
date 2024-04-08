@@ -6,8 +6,7 @@
 
 <br>
 ![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaqueharper&show_icons=true&theme=dark)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/Harpericeman/)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
+
 
 ## tecnologias que uso no meu dia 
 
