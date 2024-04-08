@@ -5,7 +5,7 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Harpericeman/)
 <br>
-<img align="right" alt="Coding" width="400" src="([https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif](https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif))">
+<img align="right" alt="Coding" width="400" src="([[https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif](https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752)))">
 <br>
 
 
