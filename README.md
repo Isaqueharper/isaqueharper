@@ -5,12 +5,12 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Harpericeman/)
 
- <br> <br>
 <img align="right" alt="Coding" width="400" src="https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif">
- <br> <br>
 Olá, eu sou Isaque . Como estudante de Análise e Desenvolvimento de Sistemas, 
-mergulho nas complexidades da tecnologia. Tenho uma paixão por desenvolvimento web e automação, e cada projeto é uma oportunidade de inovação. 
-Este espaço é onde compartilho minha jornada. Explore meu trabalho e testemunhe a evolução constante. Da criação à programação, estou empenhado em elevar o nível. 
+mergulho nas complexidades da tecnologia. Tenho uma paixão por desenvolvimento web 
+e automação, e cada projeto é uma oportunidade de inovação. 
+Este espaço é onde compartilho minha jornada. Explore meu trabalho e testemunhe a
+evolução constante. Da criação à programação, estou empenhado em elevar o nível. 
  Conecte-se e inspire-se. Seja bem-vindo!
 
 <div style="display: inline_block"><br/>
