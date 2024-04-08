@@ -8,6 +8,7 @@
 
 <br>
 
+<img align="center" alt="html5" src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)">
 ## tecnologias que uso no meu dia 
 
 <div style="display: inline_block"><br/>
