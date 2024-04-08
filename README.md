@@ -5,11 +5,11 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Harpericeman/)
 
-
+ <br> <br>
+<img align="right" alt="Coding" width="400" src="https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif">
+ <br> <br>
 
 <div style="display: inline_block"><br/>
-<img align="right" alt="Coding" width="400" src="https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif">
-   
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
