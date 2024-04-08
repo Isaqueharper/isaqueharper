@@ -5,12 +5,18 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Harpericeman/)
 <br>
-<img src="[[https://camo.githubusercontent.com/0a373355e3615b00c20430ac50cc69af032a86c38eb6b7789e968ed3143025d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4973617175656861727065722673686f775f69636f6e733d74727565267468656d653d6461726b](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" alt="Estatísticas do GitHub de Isaque" data-canonical-src="[https://github-readme-stats.vercel.app/api?username=Isaqueharper&amp;show_icons=true&amp;theme=dark](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)" style="max-width: 100%;](https://github-readme-stats.vercel.app/api/top-langs/?username={username">
+
 <br>
 
 ## tecnologias que uso no meu dia 
 
 <div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
