@@ -3,10 +3,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-goncalves-779306240)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@isaqueharper1?is_from_webapp=1&sender_device=pc)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaqueharper/)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/Harpericeman/)
+
 <br>
 ![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaqueharper&show_icons=true&theme=dark)
-
+[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/Harpericeman/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 
 ## tecnologias que uso no meu dia 
 
