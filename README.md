@@ -5,7 +5,7 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Harpericeman/)
 <br>
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg))
+<img align="right" alt="Coding" width="400" src="(https://chat2desk.com.br/wp-content/uploads/2020/07/Design-sem-nome-3-1.gif)">
 <br>
 
 
