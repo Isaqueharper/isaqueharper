@@ -5,7 +5,7 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isaqueharper)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Harpericeman/)
 <br>
-<img src="[https://camo.githubusercontent.com/0a373355e3615b00c20430ac50cc69af032a86c38eb6b7789e968ed3143025d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4973617175656861727065722673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Estatísticas do GitHub de Isaque" data-canonical-src="[https://github-readme-stats.vercel.app/api?username=Isaqueharper&amp;show_icons=true&amp;theme=dark](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)" style="max-width: 100%;](https://github-readme-stats.vercel.app/api/top-langs/?username={username">
+<img src="[[https://camo.githubusercontent.com/0a373355e3615b00c20430ac50cc69af032a86c38eb6b7789e968ed3143025d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4973617175656861727065722673686f775f69636f6e733d74727565267468656d653d6461726b](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)" alt="Estatísticas do GitHub de Isaque" data-canonical-src="[https://github-readme-stats.vercel.app/api?username=Isaqueharper&amp;show_icons=true&amp;theme=dark](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)" style="max-width: 100%;](https://github-readme-stats.vercel.app/api/top-langs/?username={username">
 <br>
 
 ## tecnologias que uso no meu dia 
