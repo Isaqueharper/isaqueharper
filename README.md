@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaqueharper/)
 
 <br>
-![Isaque GitHub stats](<img src="https://camo.githubusercontent.com/0a373355e3615b00c20430ac50cc69af032a86c38eb6b7789e968ed3143025d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4973617175656861727065722673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Estatísticas do GitHub de Isaque" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Isaqueharper&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">))
+<img src="https://camo.githubusercontent.com/0a373355e3615b00c20430ac50cc69af032a86c38eb6b7789e968ed3143025d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4973617175656861727065722673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Estatísticas do GitHub de Isaque" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Isaqueharper&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
 
 
 ## tecnologias que uso no meu dia 
